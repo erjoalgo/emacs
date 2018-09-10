@@ -607,6 +607,11 @@ error.
 It can be used to set any buffer as the next one to be used by
 'next-error' and 'previous-error'.
 
++++
+*** New customizable variable 'next-error-message-highlight-p'
+In addition to a fringe arrow, ‘next-error’ error may now optionally
+highlight the current error message in the ‘next-error’ buffer.
+
 ** nxml-mode
 
 ---

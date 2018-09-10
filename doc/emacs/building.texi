@@ -199,6 +199,8 @@ Select a buffer to be used by next invocation of @code{next-error} and
 @kindex M-g n
 @kindex C-x `
 @findex next-error
+@findex next-error-message
+@vindex next-error-message-highlight-p
 @vindex next-error-highlight
   To visit errors sequentially, type @w{@kbd{C-x `}}
 (@code{next-error}), or equivalently @kbd{M-g M-n} or @kbd{M-g n}.
